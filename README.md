@@ -6,7 +6,7 @@ Have fun with your "Special list" !
 ## To install project 
 - Go to your local directory 
 - git init
-- git clone https://github.com/REPOSITORY_TEST/REPOSITORY
+- git clone git@github.com:201107046/SDU_special-_ist-.git
 
 ## To set environment
 ``` in order to work with any python file, install next libraries 
