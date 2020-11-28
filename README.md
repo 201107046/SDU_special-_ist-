@@ -1,7 +1,12 @@
-Hello friend!
+Hello dear friend!
+
+This is first project work for "Advanced programing" course of "Murcielago/CSS503" team.
+Have fun with your "Special list" !
 
 ## To install project 
-- Clone the repo and cd into the your local directory
+- Go to your local directory 
+- git init
+- git clone https://github.com/REPOSITORY_TEST/REPOSITORY
 
 ## To set environment
 ``` in order to work with any python file, install next libraries 
@@ -21,4 +26,5 @@ pip install csv
 ## To run app
 ```
 python RunCode.py
+
 ```
