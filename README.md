@@ -30,10 +30,10 @@ python RunCode.py
 
 ```
 
-## To run parser open file 
+## To run parser file 
 
 ```
-python RunCode.py
+jupyter notebook Parser.ipynb
 
 ```
 
