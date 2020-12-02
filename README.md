@@ -30,7 +30,7 @@ python RunCode.py
 
 ```
 
-## To run parser file 
+## To run parser
 
 ```
 jupyter notebook Parser.ipynb
