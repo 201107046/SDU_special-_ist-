@@ -29,3 +29,11 @@ pip install csv
 python RunCode.py
 
 ```
+
+## To run parser open file 
+
+```
+python RunCode.py
+
+```
+
